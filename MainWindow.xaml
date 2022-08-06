@@ -1,0 +1,33 @@
+﻿<Window x:Class="screenlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:screenlock"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        WindowStyle="None"
+        Title="Screen Lock" Height="450" Width="800" Icon="/logo.png">
+
+    <Grid Background="#FF4F94EF">
+        <Image 
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top" 
+            Width="200"
+            Height="242" 
+            Source="/inverted-logo.png"/>
+        <Label 
+            Content="This device is managed by the EliasDH  company." 
+            Margin="0,319,0,0" 
+            FontFamily="HP Simplified" 
+            FontSize="20" 
+            Foreground="White" 
+            FontWeight="Bold" 
+            Height="32" 
+            Width="426" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

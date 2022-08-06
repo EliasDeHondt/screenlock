@@ -1,0 +1,32 @@
+C:\Users\elias\Desktop\screenlock\screenlock\bin\Debug\screenlock.exe.config
+C:\Users\elias\Desktop\screenlock\screenlock\bin\Debug\screenlock.exe
+C:\Users\elias\Desktop\screenlock\screenlock\bin\Debug\screenlock.pdb
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.csproj.AssemblyReference.cache
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\MainWindow.g.cs
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\App.g.cs
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock_MarkupCompile.cache
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock_MarkupCompile.lref
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\MainWindow.baml
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.g.resources
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.Properties.Resources.resources
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.csproj.GenerateResource.cache
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.csproj.CoreCompileInputs.cache
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.exe
+C:\Users\elias\Desktop\screenlock\screenlock\obj\Debug\screenlock.pdb
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\bin\Debug\screenlock.exe.config
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\bin\Debug\screenlock.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\bin\Debug\screenlock.pdb
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\MainWindow.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\App.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock_MarkupCompile.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock_MarkupCompile.lref
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\MainWindow.baml
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.g.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.Properties.Resources.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\screenlock\screenlock\obj\Debug\screenlock.pdb
